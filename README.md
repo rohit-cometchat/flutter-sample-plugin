@@ -28,7 +28,7 @@ To use this library in your code:
 * add gradle dependencies in your `build.gradle (app level)` code:
 
   ```
-  implementation 'com.cometchat:pro-android-calls-sdk:2.2.0' // Add this }
+  implementation 'com.cometchat:pro-android-calls-sdk:2.2.0' // Add this
     
   ```
 
